@@ -1,10 +1,14 @@
 ﻿"Dear Postman,
 
-We are police. If you can convince people that Jenna is a murderer, draw 3 letters at the end of your round.","Uncle, 
+We are police. If you can convince people that Emily or Jenna is a murderer, draw 3 letters at the end of your round.","Dear Postman,
 
-Thank you for the drum. But he broke it yesterday and  laughed at my music dream. Hate him. 
+Mission: Please convince people that Dalv or Oscar is Issac's father.
 
-Alan","Hey, 
+If you succeed, discard arbitrary number of your hand cards and replenish to five cards.
+
+Game Designer","Dear Postman,
+
+We are police. If you can convince people that One of Issac, Alan and Emily is a vampire, draw 2 letters at the end of your round.","Hey, 
 
 I bought a guitar! Right under his nose! And he didn't even notice it! It's amazing. Now we're talking about starting a band, you in? 
 
@@ -14,7 +18,15 @@ Last night when I play my guitar in the metro station, a dude gave me 10 bucks a
 
 Alan","Sir
 
-Can you help me please? I have a music dream but there are so many obstacles ahead. Can you clear them for me? I can do anything for you.",,,,"<Missing name>
+Can you help me please? I have a music dream but there are so many obstacles ahead. Can you clear them for me? I can do anything for you.","Uncle, 
+
+Thank you for the drum. But he broke it yesterday and  laughed at my music dream. Hate him. 
+
+Alan","Hey,
+
+I found you was walking around his house. What did you find? 
+
+Issac","<Missing name>
 
 We are glad to inform you that you are able to be a tester of Biocreature Inc. We offer you $5000/mon.
 
@@ -23,13 +35,17 @@ Biocreature Inc.","Town Daily
 A man reported he lost $20000 in his house. Then he almost goes bankrupt now. Please provide us with any clues, thank you.
 ","<Missing name>
 
-You found my secret. Don’t tell others, otherwise I would bite you and transfer you as me.
+You found my secret. Don’t tell others, otherwise I would bite you and transfer you as me. I will go to hospital tomorrow. Don't let me see you.
 
-Jenna",,"<Missing name>
+Jenna","<Cannot see my name>
+
+One life is worth another. A baby worth 2 lives. Fair trade. Don't hesitate.
+
+The Vampire Association","<Cannot see my name>
 
 We can definitely help you friend, if you can give me something important to you, such as your blood, your friend's life or your families'.
 
-The Vampire Association","<Missing name>
+The Vampire Association","<Cannot see my name>
 
 If you need someone die, please sacrifice yourself. Being one of us. It doesn't matter if you retreat.
 
@@ -41,15 +57,15 @@ The Vampire Association","Friend,
 
 Thanks for what you have done for me. I really appreciate. Take care of yourself with a dangerous doctor.
 
-Issac",,"Dear,
+Issac","<No one>
 
-Please don't tell others about my past. I promise to you that I can prevent you from the harm of vampires.
+He has some interests in me. Actually I am dating with him now. I’ll help you find the clues. He is a doctor in Biocreature Inc. And he worked in Oakland City Hospital last year.
 
-Alan",,,,"Dear Grandpa, 
+Jenna","Dear Grandpa, 
 
-Mom has gone. Dad said mom moved to live with you, but I don't understand, because she just slept in a box underground. 
+Mom has gone in hospital. Dad said mom moved to live with you, but I don't understand, because she just slept in a box underground. 
 
-Emily","Dear friend, 
+Yours","Dear friend, 
 
 It has been a year since I moved to Oakland. We hadn't been to that haunted house before I left, have you been there? Is there really a vampire? 
 
@@ -67,9 +83,9 @@ The Audit Team of New Star Show","Lisa,
 
 She is badly ill these days. She might be scared by him. It was said that she owe lots of money to him.
 
-Jenna","Hey friend,
+Jenna","Old friend,
 
-I am very surprised you are still alive. My wedding is next month. Do you plan to come?
+I am very surprised you are still alive. My wedding is next month. Do you plan to come? See you tomorrow.
 
 Emily ","Friend,
 
@@ -79,26 +95,24 @@ The Vampire Association","Honey,
 
 I think it's time to say goodbye. I am going to work in another state for business.
 
-Dalv","Dear,
-
-I think Biocreature Inc has some relationship with the rumor of vampires. That's horrible. If so, their medicine might transfer human into vampire!
-
-Issac","Hey,
-
-I found you walking around his house. What did you find? 
-
-Issac"
+Dalv",,,,,,
 "Dear Postman,
 
-Vampire association need your help! Please convince people that Dalv is a vampire.
+Vampire association need your help! Please convince people that Dalv is a vampire, or Alan is a killer.
 
-If your succeed, draw 3 letters at the end of your round.","Dear,
+If your succeed, draw 3 letters at the end of your round.","Dear Postman,
+
+Mission: Please convince people that Issac or Oscar is dead.
+
+If you succeed, discard arbitrary number of your hand cards and replenish to five cards.
+
+Game Designer","Dear,
 
 Worried about Biocreature Inc. They're likely doing human experiments. I don't agree that you take such risks. At least you should meet Oscar first.","Mom,
 
 I am very worried about your illness. I'll go home tomorrow and I got an excuse from the band. I'll take enough money.","Friend,
 
-The plan is going on. Please get prepared.","Dear Father, 
+We've get the money. The plan is going on. Please get prepared.","Dear Father, 
 
 Mom passed away yesterday. I don't want to hurt someone and to be hurt. But sometimes I cannot control myself.
 
@@ -106,9 +120,9 @@ Issac","<Unknown>
 
 I got bitten today. It's terrible. I think I should visit Oscar. Tell Emily I love her. Please send this ring to her.
 
-<Unknown>",,"Dear Jenna,
+<Unknown>","Dear,
 
-This letter just for a test. If you cannot receive it, there must be someone inside the post office who monitors every letter about my father!
+I think Biocreature Inc has some relationship with the rumor of vampires. That's horrible. If so, their medicine might transfer human into vampire!
 
 Issac","Dear Jenna,
 
@@ -120,17 +134,13 @@ Please do our plan more earlier. Find some ways to kill him so that you'll be fr
 
 Lisa","Oscar,
 
-Can you help us offer Dalv a job in Biocreature Inc so that he can leave his wife and son. We can give you a fresh body.
+Can you help us offer him a job in Biocreature Inc so that he can leave his wife and son. We can give you a fresh body.
 
-Alan","Lisa,
+The Vampire Association","Lisa,
 
-I had a little accident. I cannot write to you as often as usual. No worries. Tell him I won't be there.
+I had a little accident. I cannot write to you as often as usual. No worries. Tell him I won't be there.","Dear,
 
-Dalv","Dear Issac,
-
-Today I met Oscar. He is a doctor working in Biocreature Inc.. I think he might know something about your dad. 
-
-Jenna","<Missing name>
+Today I met Oscar. He is a doctor working in Biocreature Inc.. I think he might know something about that. ","<Missing name>
 
 Sorry I cannot write to you as often as usual. Someone has been noticing my letters and I should be careful. Help me in some way, please! You know it!
 
@@ -142,20 +152,28 @@ Issac","Dalv,
 
 It's the time to get rid of his interruption. His research will ruin us. Even his mother is one of us, we cannot wait to die! 
 
-<Missing name>",,,,,,I sent you a good thing. It should be arrived now. You'll like it.,,"Town Daily 
+<Missing name>","<No one>
+
+It was a great time with you. But I always worry about your wife's sudden appearance. I'm very scared. Can you guarantee that we won't be found?
+
+Jenna","Hi mom, 
+
+Just heard Emily's expecting a baby, that's sweet. Don't let him know this otherwise she'd be in trouble.
+
+Lisa",I sent you a good thing. It should be arrived now. You'll like it.,"Town Daily 
 
 A woman dead yesterday. But her body was missing. Many policemen were investigating but there was not any clues.
 ","Town Daily 
 
 Young woman found dead.
 Police have been trying to determine what led to the death of a young woman whose body was found in the bathtub Saturday afternoon, with a wound in the wrist.
-","Dear applicant,
+","Dear driver,
 
-We are sorry to inform you that your application to the truck driver has been rejected. We discovered that you have alcohol issues and think it is not appropriate to the occupation. Good luck.
+We are sorry to inform you that you're fired. We discovered that you have alcohol issues and think it is not appropriate to the occupation. Good luck.
 
 Chuck's Trucks Co., Ltd.","We tried to make a delivery yesterday at 12pm, but no one was at home again. So we put it in front of your door. It's heavy and wet.
 
-UPS","To Emily,
+UPS","Dear, 
 
 So glad to know that you are in a relationship! I haven’t heard of his last name Dalv in town before.  If he does bad to you I will ask Oscar to beat him.
 
@@ -165,12 +183,18 @@ Welcome to vampire family. It would be a little strange in the beginning. Don't 
 
 The Vampire Association","Lisa,
 
-I was scared last night. I found a dead body in front of Dalv' house. What's going on? Are you OK? Did he tell you about this?",,
+I was scared last night. I found a dead body in front of Dalv' house. What's going on? Are you OK? Did he tell you about this?",,,,,,
 "Dear Postman,
 
 This is the mission letter for you. If you can finish it, you'll get reward. 
 
-Please convince people that Lisa is a murderer.
+Please convince people that Lisa is a murderer, or Dalv is a killer.
+
+If you succeed, seal a broken story you've made.","Dear Postman,
+
+This is the mission letter for you. If you can finish it, you'll get reward. 
+
+Please convince people that Oscar is a vampire, or Emily is a victim.
 
 If you succeed, seal a broken story you've made.","Kid,
 
@@ -180,39 +204,51 @@ Oscar","My kid,
 
 I'm so worried about you. It broke my heart to know you left home and won't come back for Christmas. Put on this sweater I made for you.","Hey, 
 
-Stop wasting your time writing to that little shit. It might be father's smartest decision to kick him out. Just leave him to die!
+Stop wasting your time writing to that little shit. It might be father's smartest decision to kick it out. Just leave it to die!
 
 Dalv","Dear,
 
 I should go to see a patient in Oakland City Hospital. Don't tell anyone my plan especially him.
 
-Lisa",,,,"Hey man, 
+Lisa","Dear,
 
-You're only a worker of the company. Don't be interested in too many things. Take care of your family, otherwise they might be missing.
+I hope you understand. I have hidden from you for such a long time. They think I was dead and someone is finding clues about me. It's time for us to tell them the truth.
 
-No one","Bank Statement
+Lisa","Friend,
 
-Oscar owes Him a lot of money. ",,,,"Alan,
+This letter just for a test. If you cannot receive it, there must be someone inside the post office who monitors every letter of mine!","Hey shit, 
 
-We planned to get Lisa back and kill him. But somehow he get the job from Biocreature Inc. It's tough now. I need you bite him or kill him.
+Don't be interested in too many things. Take care of your family, otherwise they might be missing.
+
+Some big guy","Bank Statement
+
+<Somebody> owes bank a lot of money, and in great debts.","Dear,
+
+Please don't tell others about my past. I promise to you that I can prevent you from the harm of vampires.
+
+Alan","Listen, I hear from Oscar that the post office belongs to Biocreature Inc. They may monitor every letter from their staffs. The company may know everything about the town.
+
+Jenna","Friend,
+
+Be careful about the woman. she may be a spy. She want information from our company. Don't mess it up. New medicine is almost ready, which can transfer without pain.
+
+Alan","Alan,
+
+We planned to kill the man and get Lisa back. But somehow he get the job from Biocreature Inc. It's tough now. I need you bite him or kill him.
 
 The Vampire Association","Dear friend, don't worry. The transforming process would be painless. I experienced that and I know. Trust me. Do it with Dalv.
 
-Lisa",,,"Listen, I hear from Oscar that the post office belongs to Biocreature Inc. They may monitor every letter from their staffs. The company may know everything about the town.
-
-Jenna",,"Lisa,
+Lisa","Old friend,
 
 I'm worried about her, Her husband beats her everytime he got drunk, but she'd never call the police. It's horrible. She asked me for help but I have no idea.
 
-Emily","Hi Lisa, 
+Emily","Issac,
 
-It's been months since you moved away, how's everything? I picked a scarf for you. Did you make a decision between Oscar and Dalv? Oscar is a good man, but Dalv, you know, he's kind of special. 
+He is seperated from his wife now. Maybe from now on I can enter the company for more information. Once I get caught, I know what I should do.
 
-Emily","Hi mom, 
+Yours","It's been months since you moved away. I picked a scarf for you. Did you make a decision between Oscar and Dalv? Oscar is a good man, but Dalv, you know, he's kind of special. 
 
-Just heard Emily's expecting a baby, that's sweet. Don't let him know this otherwise she'd be in trouble.
-
-Lisa","Hey, 
+Emily","Hey, 
 
 I hate to say this. You're married for years and still dating me, are you serious!?  
 
@@ -223,9 +259,9 @@ A severe traffic accident. A drunk truck driver killed a pedestrian.","Town Dail
 Biocreature Inc has bought Oakland City Hospital. Two former doctors in Biocreature Inc have been assigned to lead the hospital.
 ","Applicant,
 
-Sorry you're not accepted to be one of us. Please do something special to show your loyalty.","<A scrawled name>
+Sorry you're not accepted to be one of us. Please do something special to show your loyalty.","Prophet says:
 
-Animals are getting killed cruelly in your town. It is not a good sign. Such a cruel person took away all their blood when alive. Maybe next victim would be a human.","Honey,
+Animals are getting killed cruelly in your town. It is not a good sign. Such a cruel person took away all their blood when alive. Maybe next victim would be a human, or a baby.","Honey,
 
 Happy valentine’s Day! This box of chocolate is for you. 
 I just want you to know that I will not be afraid of your past. If you feel like telling me everything, I’m always willing to listen.
@@ -238,32 +274,5 @@ Dalv","Dear,
 
 if you feel ill please go to see doctor Oscar as soon as possible. I will go home soon.
 
-Dalv",,"Dear,
-
-I hope you understand. I have hidden from you for such a long time. They think I was dead and someone is finding clues about me. It's time for us to tell them the truth.
-
-Lisa"
-"Dear Postman,
-
-Mission: Please convince people that Dalv is Issac's father.
-
-If you succeed, discard arbitrary number of your hand cards and replenish to five cards.
-
-Game Designer",,,,,,,,,,,,"<No one>
-
-He has some interests in me. Actually I am dating with him now. I’ll help you find the clues. He is a doctor in Biocreature Inc. And he worked in Oakland City Hospital last year.
-
-Jenna",,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,"<No one>
-
-It was a great time with you. But I always worry about your wife's sudden appearance. I'm very scared. Can you guarantee that we won't be found?
-
-Jenna",,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,"Issac,
-
-He is seperated from his wife now. Maybe from now on I can enter the company for more information. Once I get caught, I know what I should do.",,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,"Friend,
-
-Be careful about the woman. she may be a spy. She want information from our company. Don't mess it up. New medicine is almost ready, which can transfer without pain.
-
-Alan",,,,,,,,,,,,,,,,,,,
+Dalv",,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
